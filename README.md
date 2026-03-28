@@ -38,9 +38,5 @@ Fire accidents can happen unexpectedly, so this system is designed to provide ea
 - Buzzer Alarm System Implementation
 - Problem Solving
 - System Design Thinking
-
-## Outcome
-This project demonstrates how IoT and embedded systems can be used to build a real-time safety system that detects fire hazards and alerts users immediately.
-
 ## Outcome
 This project demonstrates how IoT and embedded systems can be used to build a real-time safety system that detects fire hazards and alerts users immediately.
